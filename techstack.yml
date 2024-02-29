@@ -2,7 +2,7 @@ repo_name: jimbrig/flask-react-soft-dashboard
 report_id: 303d5121d9499f904df82007934fc4db
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:28:20+00:00'
+timestamp: '2024-02-29T18:59:03+00:00'
 requested_by: app-generator
 provider: github
 branch: main
@@ -157,7 +157,7 @@ tools:
   last_updated_by: App Generator
   last_updated_on: 2022-11-20 07:19:30.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.4.1
   license: MIT
