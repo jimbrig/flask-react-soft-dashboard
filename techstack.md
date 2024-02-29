@@ -3,21 +3,21 @@
 ## Tech Stack
 jimbrig/flask-react-soft-dashboard is built on the following main stack:
 
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Python](https://www.python.org) – Languages
+- [Chart.js](http://www.chartjs.org/) – Charting Libraries
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
-- [NGINX](http://nginx.org) – Web Servers
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- [ESLint](http://eslint.org/) – Code Review
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- [Chart.js](http://www.chartjs.org/) – Charting Libraries
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- [Prettier](https://prettier.io/) – Code Review
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
 - [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [ESLint](http://eslint.org/) – Code Review
+- [NGINX](http://nginx.org) – Web Servers
+- [Prettier](https://prettier.io/) – Code Review
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -27,21 +27,21 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 jimbrig/flask-react-soft-dashboard is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg' alt='Chart.js'/> [Chart.js](http://www.chartjs.org/) – Charting Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg' alt='Chart.js'/> [Chart.js](http://www.chartjs.org/) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jimbrig/flask-react-soft-dashboard](https://github.com/jimbrig/flask-react-soft-dashboard)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|40<br/>Tools used|01/05/24 <br/>Report generated|
+|40<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
